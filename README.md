@@ -1,2 +1,7 @@
-# TWD Group Project
-This is a responsive blog.
+School Group Project
+Converted PSD to HTML
+
+- html
+- css
+- bootstrap
+- gulp
